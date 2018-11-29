@@ -17,13 +17,7 @@ hr {
 
 .faded {
   color: rgba(255, 255, 255, 0.8); 
-  transition: all 2s;
 }
-
-.faded:hover {
-   transform: scale(1.1);
-}
-
 header.startup {
   background-position: center;
   background-image: url("header.jpg");
